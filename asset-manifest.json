@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/micron/static/css/main.69f8e391.css",
-    "main.js": "/micron/static/js/main.eb70dff5.js",
+    "main.js": "/micron/static/js/main.26b3f920.js",
     "static/js/787.f987cc4d.chunk.js": "/micron/static/js/787.f987cc4d.chunk.js",
     "static/media/contact.jpg": "/micron/static/media/contact.3cdbe404c887a2b23e4e.jpg",
     "index.html": "/micron/index.html",
     "main.69f8e391.css.map": "/micron/static/css/main.69f8e391.css.map",
-    "main.eb70dff5.js.map": "/micron/static/js/main.eb70dff5.js.map",
+    "main.26b3f920.js.map": "/micron/static/js/main.26b3f920.js.map",
     "787.f987cc4d.chunk.js.map": "/micron/static/js/787.f987cc4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69f8e391.css",
-    "static/js/main.eb70dff5.js"
+    "static/js/main.26b3f920.js"
   ]
 }
